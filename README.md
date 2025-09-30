@@ -1,1 +1,2 @@
-# Portfolio 
+# Portfolio
+![Cover Image](FirstPortfolioPhoto.jpg)
